@@ -13,7 +13,7 @@
 
 * Passo 1: Clone o repositório
 * Abra o terminal e execute o seguinte comando para clonar o repositório:
-* git clone https://github.com/angelodesenvolvedor/conversor-de-moeda.git
+* *git clone https://github.com/angelodesenvolvedor/Conversor-de-Moedas.git*
 * Passo 2: Acesse o diretório do projeto
 * Navegue até o diretório recém-clonado:
 * cd *conversor-de-moeda*

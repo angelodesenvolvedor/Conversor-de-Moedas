@@ -12,7 +12,7 @@
 
 * Passo 1: Clone o repositório
 * Abra o terminal e execute o seguinte comando para clonar o repositório:
-git clone https://github.com/angelodesenvolvedor/conversor-de-moeda.git
+* git clone https://github.com/angelodesenvolvedor/conversor-de-moeda.git
 
 # 📦 Tecnologias usadas:
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Responsável pela lógica de programação do Conversor de Moeda, incluindo o cálculo das conversões.

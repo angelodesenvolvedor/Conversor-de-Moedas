@@ -4,6 +4,14 @@
 
 * O Conversor de Moeda é um projeto desenvolvido como parte do desafio do bootcamp "Coding The Future Banco PAN - Desenvolvimento Frontend com Angular" da Dio. Este projeto em JavaScript simula a conversão de valores entre diferentes moedas, proporcionando uma solução prática para transações internacionais. Os usuários podem converter valores de uma moeda para outra com base em taxas de câmbio pré-definidas.
 
+# 🚀 Pré-requisitos:
+
+Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Você pode baixar e instalar o Node.js a partir do [Node.js](https://nodejs.org/en).
+
+⚙️ Guia de instalação:
+
+Passo 1: Clone o repositório
+
 # 📦 Tecnologias usadas:
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Responsável pela lógica de programação do Conversor de Moeda, incluindo o cálculo das conversões.
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -  Permite a execução de scripts JavaScript fora do navegador, facilitando a interação no console do terminal.

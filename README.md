@@ -34,4 +34,4 @@
 
 ## 📄 Licença
 
-Esse projeto está sob a licença (MIT License) - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Conversor-de-Moedas?tab=MIT-1-ov-file). 
+* Esse projeto está sob a licença *MIT License* - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Conversor-de-Moedas?tab=MIT-1-ov-file). 

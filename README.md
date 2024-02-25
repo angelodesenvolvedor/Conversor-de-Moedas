@@ -22,12 +22,12 @@
 * npm install
   
 
-# 📦 Tecnologias usadas:
+# 💻 Tecnologias usadas:
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Responsável pela lógica de programação do Conversor de Moeda, incluindo o cálculo das conversões.
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -  Permite a execução de scripts JavaScript fora do navegador, facilitando a interação no console do terminal.
 * ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) - Utilizado para instalar a biblioteca readline-sync e gerenciar outras dependências do projeto.
 
- ## 👷 Autor
+ ## 🧑🏽‍💻 Autor
 
 * **Angelo Silvano** - *Front-End Developer* - [angelo_developer](https://github.com/angelodesenvolvedor)
 

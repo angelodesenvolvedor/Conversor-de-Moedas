@@ -27,4 +27,13 @@
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -  Permite a execução de scripts JavaScript fora do navegador, facilitando a interação no console do terminal.
 * ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) - Utilizado para instalar a biblioteca readline-sync e gerenciar outras dependências do projeto.
 
-  
+ ## 👷 Autor
+
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
+
+* **Angelo Silvano** - *Função realizada* - [angelo_developer](https://github.com/link_do_Perfil)
+
+
+## 📄 Licença
+
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca). 

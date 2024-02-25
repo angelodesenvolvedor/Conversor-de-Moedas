@@ -16,10 +16,10 @@
 * git clone https://github.com/angelodesenvolvedor/conversor-de-moeda.git
 * Passo 2: Acesse o diretório do projeto
 * Navegue até o diretório recém-clonado:
-* cd conversor-de-moeda
+* cd *conversor-de-moeda*
 * Passo 3: Instale as dependências
 * Execute o seguinte comando para instalar as dependências do projeto:
-* npm install
+* *npm install*
   
 
 # 💻 Tecnologias usadas:

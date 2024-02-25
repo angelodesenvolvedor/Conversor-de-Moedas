@@ -29,11 +29,9 @@
 
  ## 👷 Autor
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Angelo Silvano** - *Função realizada* - [angelo_developer](https://github.com/link_do_Perfil)
+* **Angelo Silvano** - *Front-End Developer* - [angelo_developer](https://github.com/angelodesenvolvedor)
 
 
 ## 📄 Licença
 
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca). 
+Esse projeto está sob a licença (MIT License) - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/Conversor-de-Moedas?tab=MIT-1-ov-file). 

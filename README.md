@@ -6,11 +6,13 @@
 
 # 🚀 Pré-requisitos:
 
-Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Você pode baixar e instalar o Node.js a partir do [Node.js](https://nodejs.org/en).
+* Antes de começar, certifique-se de ter o Node.js instalado em seu sistema. Você pode baixar e instalar o Node.js a partir do [Node.js](https://nodejs.org/en).
 
-⚙️ Guia de instalação:
+## ⚙️ Guia de instalação:
 
-Passo 1: Clone o repositório
+* Passo 1: Clone o repositório
+* Abra o terminal e execute o seguinte comando para clonar o repositório:
+git clone https://github.com/angelodesenvolvedor/conversor-de-moeda.git
 
 # 📦 Tecnologias usadas:
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - Responsável pela lógica de programação do Conversor de Moeda, incluindo o cálculo das conversões.
